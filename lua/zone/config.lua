@@ -56,6 +56,7 @@ local default_opts = {
 			[[              .:;.                        ';.               ]],
 			[[                                          .'.               ]],
 		},
+		tick_time = 250,
 	},
 
 	vanish = {
